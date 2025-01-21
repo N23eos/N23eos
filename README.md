@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm N23eos
 
-<!--
-**N23eos/N23eos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me:**
+- 🎯 Aspiring Python developer, passionate about technology and innovation.
+- 🌱 Currently learning Python and exploring the world of programming.
+- 💡 Interests include: cryptocurrency, computer technologies, cryptography, and philosophy.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Skills:**
+- Languages: Python (currently learning)
+- Interests: Blockchain, Cryptography, AI, and Philosophy.
+
+---
+
+📈 **GitHub Stats:**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N23eos&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N23eos&layout=compact&theme=radical)
+
+---
+
+🚀 **Projects:**
+- *Coming soon!* Stay tuned for my upcoming repositories and projects.
+
+---
+
+📫 **How to Reach Me:**
+- [Telegram](https://t.me/N23eo)
+- [Twitter](https://twitter.com/N23eo_n)
