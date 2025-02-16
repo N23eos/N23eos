@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10FF80&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+I'm+Denis!;Web3+%7C+Crypto+%7C+Smart+Contracts+Dev;Building+the+future+of+Blockchain!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10FF80&center=true&vCenter=true&width=600&height=50&lines=Hello+World!+I+am+a+Python+%7C+JS+%7C+Solidity+Dev;Automating+Everything+%7C+Building+Web3+%7C+AI+Exploration" />
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="500" />
-</p>
 
 
 🌟 **About Me:**
