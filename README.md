@@ -1,32 +1,28 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&color=4AF626&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=>+Booting+Developer+Mode...;>+Initializing+Repositories...;>+Executing+Code...;>+Welcome+to+My+GitHub!" />
-
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="400" />
+<h1 class="glitch" data-text="WELCOME TO MY GITHUB">WELCOME TO MY GITHUB</h1>
 
 <style>
-  @keyframes blink {
-    50% { opacity: 0; }
+  @keyframes glitch {
+    0% { text-shadow: 4px 4px 0 red, -4px -4px 0 blue; }
+    20% { text-shadow: -4px -4px 0 red, 4px 4px 0 blue; }
+    40% { text-shadow: 4px -4px 0 red, -4px 4px 0 blue; }
+    60% { text-shadow: -4px 4px 0 red, 4px -4px 0 blue; }
+    80% { text-shadow: 4px 4px 0 red, -4px -4px 0 blue; }
+    100% { text-shadow: -4px -4px 0 red, 4px 4px 0 blue; }
   }
-  .terminal {
-    font-family: "Courier New", monospace;
+
+  .glitch {
+    font-family: 'Courier New', monospace;
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
     background: black;
-    color: green;
     padding: 10px;
-    width: 500px;
-    border: 2px solid lime;
     display: inline-block;
-  }
-  .cursor {
-    animation: blink 0.7s infinite;
+    position: relative;
+    animation: glitch 0.5s infinite alternate;
   }
 </style>
 
-<div class="terminal">
-  <p>> Initializing AI... ✅</p>
-  <p>> Fetching latest commits... 🔄</p>
-  <p>> Running tests... ✅✅✅</p>
-  <p>> Deploying to production... 🚀</p>
-  <p>> System online! 🎯<span class="cursor">█</span></p>
-</div>
 
 🌟 **About Me:**
 - 🎯 Aspiring Python developer, passionate about technology and innovation.
