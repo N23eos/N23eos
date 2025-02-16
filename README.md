@@ -1,6 +1,4 @@
-![Animated Computer](https://raw.githubusercontent.com/yourusername/yourrepo/main/animated_computer.svg)
-
-
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/animated_computer.svg" alt="Animated Computer" width="500"/>
 
 🌟 **About Me:**
 - 🎯 Aspiring Python developer, passionate about technology and innovation.
