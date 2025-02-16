@@ -1,16 +1,46 @@
-<img src="https://media.giphy.com/media/QXcfAWxGCjl2k/giphy.gif" width="300" />
+
+<canvas id="matrix"></canvas>
 
 <style>
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-5px); }
-    100% { transform: translateY(0px); }
+  body {
+    margin: 0;
+    overflow: hidden;
+    background: black;
   }
-
-  img {
-    animation: float 2s infinite ease-in-out;
+  canvas {
+    display: block;
   }
 </style>
+
+<script>
+  const canvas = document.getElementById("matrix");
+  const ctx = canvas.getContext("2d");
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+  const letters = "01";
+  const matrix = [];
+  for (let i = 0; i < canvas.width / 10; i++) {
+    matrix[i] = Math.random() * canvas.height;
+  }
+
+  function draw() {
+    ctx.fillStyle = "rgba(0, 0, 0, 0.05)";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    ctx.fillStyle = "#0F0";
+    ctx.font = "15px monospace";
+    for (let i = 0; i < matrix.length; i++) {
+      const text = letters.charAt(Math.floor(Math.random() * letters.length));
+      ctx.fillText(text, i * 10, matrix[i]);
+      matrix[i] += 15;
+      if (matrix[i] > canvas.height && Math.random() > 0.95) {
+        matrix[i] = 0;
+      }
+    }
+  }
+  setInterval(draw, 50);
+</script>
+
+
 
 
 
