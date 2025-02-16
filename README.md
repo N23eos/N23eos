@@ -25,10 +25,6 @@
   </p>
   
   <h2> 🔗 Connect with me </h2>
-  <p>
-    <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-    <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" /></a>
-  </p>
   
   <h2> 🎨 Fun Animated SVG </h2>
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/animation.svg" width="500">
