@@ -1,4 +1,40 @@
-<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/animated_computer.svg" alt="Animated Computer" width="500"/>
+<!-- Добавляем стиль для центрирования -->
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D8FF&random=false&width=435&lines=Hello%2C+World!;Welcome+to+my+GitHub!;Enjoy+your+stay!">
+  
+  <pre>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣾⣿⣿⣿⣿⣷⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⡿⠋⠀⠙⢿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡿⠀⠀⠀⠀⠀⢿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  </pre>
+  
+  <h2> 🚀 About Me </h2>
+  <p>
+    Hi! I'm an open-source enthusiast, passionate about coding and creating cool projects.
+  </p>
+  
+  <h2> 🔥 Stats </h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  
+  <h2> 🎵 Music Vibes </h2>
+  <p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default" />
+  </p>
+  
+  <h2> 🔗 Connect with me </h2>
+  <p>
+    <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+    <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" /></a>
+  </p>
+  
+  <h2> 🎨 Fun Animated SVG </h2>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/animation.svg" width="500">
+  
+</div>
+
 
 🌟 **About Me:**
 - 🎯 Aspiring Python developer, passionate about technology and innovation.
