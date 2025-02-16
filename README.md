@@ -1,35 +1,10 @@
-<!-- Добавляем стиль для центрирования -->
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D8FF&random=false&width=435&lines=Hello%2C+World!;Welcome+to+my+GitHub!;Enjoy+your+stay!">
-  
-  <pre>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣾⣿⣿⣿⣿⣷⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⡿⠋⠀⠙⢿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡿⠀⠀⠀⠀⠀⢿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-  </pre>
-  
-  <h2> 🚀 About Me </h2>
-  <p>
-    Hi! I'm an open-source enthusiast, passionate about coding and creating cool projects.
-  </p>
-  
-  <h2> 🔥 Stats </h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
-  
-  <h2> 🎵 Music Vibes </h2>
-  <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default" />
-  </p>
-  
-  <h2> 🔗 Connect with me </h2>
-  
-  <h2> 🎨 Fun Animated SVG </h2>
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/animation.svg" width="500">
-  
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10FF80&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+I'm+Denis!;Web3+%7C+Crypto+%7C+Smart+Contracts+Dev;Building+the+future+of+Blockchain!" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="500" />
+</p>
 
 
 🌟 **About Me:**
