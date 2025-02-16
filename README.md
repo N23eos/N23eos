@@ -1,45 +1,38 @@
-<script>
-<canvas id="matrix"></canvas>
-
-<style>
-  body {
-    margin: 0;
-    overflow: hidden;
-    background: black;
-  }
-  canvas {
-    display: block;
-  }
-</style>
-
-<script>
-  const canvas = document.getElementById("matrix");
-  const ctx = canvas.getContext("2d");
-  canvas.width = window.innerWidth;
-  canvas.height = window.innerHeight;
-  const letters = "01";
-  const matrix = [];
-  for (let i = 0; i < canvas.width / 10; i++) {
-    matrix[i] = Math.random() * canvas.height;
-  }
-
-  function draw() {
-    ctx.fillStyle = "rgba(0, 0, 0, 0.05)";
-    ctx.fillRect(0, 0, canvas.width, canvas.height);
-    ctx.fillStyle = "#0F0";
-    ctx.font = "15px monospace";
-    for (let i = 0; i < matrix.length; i++) {
-      const text = letters.charAt(Math.floor(Math.random() * letters.length));
-      ctx.fillText(text, i * 10, matrix[i]);
-      matrix[i] += 15;
-      if (matrix[i] > canvas.height && Math.random() > 0.95) {
-        matrix[i] = 0;
-      }
-    }
-  }
-  setInterval(draw, 50);
-</script>
-
+<svg width="500" height="300" viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg">
+    <!-- Monitor -->
+    <rect x="100" y="50" width="300" height="200" fill="black" stroke="gray" stroke-width="5"/>
+    <rect x="110" y="60" width="280" height="180" fill="#222"/>
+    
+    <!-- Animated Code -->
+    <text id="codeText" x="120" y="80" font-family="monospace" font-size="16" fill="lime">
+        > Initializing...
+    </text>
+    
+    <!-- Stand -->
+    <rect x="210" y="250" width="80" height="10" fill="gray"/>
+    <rect x="230" y="260" width="40" height="10" fill="gray"/>
+    
+    <!-- Animation -->
+    <script>
+        <![CDATA[
+        let lines = [
+            "> Booting system...",
+            "> Loading repositories...",
+            "> Fetching commits...",
+            "> Deploying...",
+            "> Hello, GitHub!"
+        ];
+        let index = 0;
+        function updateText() {
+            let textElement = document.getElementById("codeText");
+            textElement.textContent = lines[index];
+            index = (index + 1) % lines.length;
+            setTimeout(updateText, 1500);
+        }
+        updateText();
+        ]]>
+    </script>
+</svg>
 
 
 
