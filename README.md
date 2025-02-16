@@ -1,29 +1,16 @@
-
-<h1 class="glitch" data-text="WELCOME TO MY GITHUB">WELCOME TO MY GITHUB</h1>
+<img src="https://media.giphy.com/media/QXcfAWxGCjl2k/giphy.gif" width="300" />
 
 <style>
-  @keyframes glitch {
-    0% { text-shadow: 4px 4px 0 red, -4px -4px 0 blue; }
-    20% { text-shadow: -4px -4px 0 red, 4px 4px 0 blue; }
-    40% { text-shadow: 4px -4px 0 red, -4px 4px 0 blue; }
-    60% { text-shadow: -4px 4px 0 red, 4px -4px 0 blue; }
-    80% { text-shadow: 4px 4px 0 red, -4px -4px 0 blue; }
-    100% { text-shadow: -4px -4px 0 red, 4px 4px 0 blue; }
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-5px); }
+    100% { transform: translateY(0px); }
   }
 
-  .glitch {
-    font-family: 'Courier New', monospace;
-    font-size: 2rem;
-    font-weight: bold;
-    color: white;
-    background: black;
-    padding: 10px;
-    display: inline-block;
-    position: relative;
-    animation: glitch 0.5s infinite alternate;
+  img {
+    animation: float 2s infinite ease-in-out;
   }
 </style>
-
 
 
 
