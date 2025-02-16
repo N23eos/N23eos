@@ -1,4 +1,4 @@
-
+<script>
 <canvas id="matrix"></canvas>
 
 <style>
