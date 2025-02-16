@@ -1,3 +1,4 @@
+
 <h1 class="glitch" data-text="WELCOME TO MY GITHUB">WELCOME TO MY GITHUB</h1>
 
 <style>
@@ -22,6 +23,8 @@
     animation: glitch 0.5s infinite alternate;
   }
 </style>
+
+
 
 
 🌟 **About Me:**
