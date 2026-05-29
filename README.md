@@ -46,30 +46,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=N23eos&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N23eos&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=N23eos&theme=radical&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=N23eos&theme=react-dark&hide_border=true&area=true" />
-
-</div>
 
 ---
 
