@@ -1,40 +1,4 @@
-````html
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Nick+%F0%9F%91%8B;Python+%7C+TypeScript+%7C+Solidity;AI+Agents+%7C+Automation+%7C+Web3;Building+tools+with+LLMs+and+code" />
-</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="280" />
-</div>
-
-<br>
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-N23eo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/N23eo)
-[![Twitter](https://img.shields.io/badge/Twitter-N23eo__n-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/N23eo_n)
-[![GitHub](https://img.shields.io/badge/GitHub-N23eos-181717?style=for-the-badge&logo=github)](https://github.com/N23eos)
-
-</div>
-
----
-
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-  I explore the intersection of <b>AI agents</b>, <b>automation</b>, <b>Web3</b>, and <b>developer tools</b>.<br>
-  My focus is building practical systems that help solve real problems faster.
-</p>
-
-```txt
-🧠 Thinking in systems
-⚙️ Automating workflows
-🤖 Building with AI agents
-🔗 Exploring Web3 and blockchain
-🐍 Growing with Python, TypeScript and Solidity
-````
-
----
 
 <h2 align="center">🛠 Tech Stack</h2>
 
