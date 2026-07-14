@@ -1,6 +1,11 @@
 <p align="center"><img src="assets/readme-header.png" alt="" width="480"></p>
 
 
+<p align="center">
+  <img src="raincoat-header.png" alt="RAINCOAT" width="600"/>
+</p>
+
+<br>
 
 <h2 align="center">🛠 Tech Stack</h2>
 
