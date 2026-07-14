@@ -61,17 +61,6 @@
 
 ---
 
-<h2 align="center">🚧 Projects</h2>
-
-<div align="center">
-
-| Project                 | Status         | Description                          |
-| ----------------------- | -------------- | ------------------------------------ |
-| AI Agent Experiments    | 🧪 In progress | Tools and workflows powered by LLMs  |
-| Web3 / Solidity Sandbox | 🔗 Learning    | Smart contract experiments           |
-| Automation Toolkit      | ⚙️ Building    | Scripts and systems for productivity |
-
-</div>
 
 ---
 
