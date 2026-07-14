@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="raincoat-header.png" alt="RAINCOAT" width="600"/>
+  <img src="raincoat.png" alt="RAINCOAT" width="500"/>
 </p>
 
 <br>
